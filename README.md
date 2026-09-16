@@ -19,7 +19,7 @@ O arquivo `config.json.example` possui um layout padrão para a aplicação. As 
 ```
 {
 ...
-  "pteroAPIKey": ["API-do-host-1", "API-do-host-2"],
+    "pteroAPIKey": ["API-do-host-1", "API-do-host-2"],
 	"hostURL": ["https://link.host.1", "https://link.host.2"]
 }
 ```
