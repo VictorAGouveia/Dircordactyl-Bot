@@ -1,0 +1,6 @@
+{
+	"DiscBotToken": "paste-here-your-discord-bot-token",
+	"clientId": "paste-here-your-bots-app-id",
+	"pteroAPIKey": ["paste-here-your-api-key-from-pterodactyl"],
+	"hostURL": ["https://your.host.domain/or-ip"]
+}
