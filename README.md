@@ -14,7 +14,7 @@ Para o bot funcionar corretamente, são necessários pelo menos quatro informaç
 Para aprender a obter o Token e ID do seu bot, acesse [aqui](https://docs.discord.com/developers/quick-start/getting-started)
 Para aprender a obter sua chave API do pterodactyl, acesse [aqui](https://pteroapi.com/docs/api/client#getting-started)
 
-O arquivo config.json.example possui um layout padrão para a aplicação. As variáveis "pteroAPIKey" e "hostURL" são listas, para adicionar suporte para múltiplos hosts de servidores. Para adicionar mais de um servidor, basta adicionar **em ordem** as APIs e os URLs, exemplo:
+O arquivo `config.json.example` possui um layout padrão para a aplicação. As variáveis "pteroAPIKey" e "hostURL" são listas, para adicionar suporte para múltiplos hosts de servidores. Para adicionar mais de um servidor, basta adicionar **em ordem** as APIs e os URLs, exemplo:
 
 ```
 {
